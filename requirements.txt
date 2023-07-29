@@ -1,0 +1,11 @@
+scikit-learn
+scipy
+imblearn
+wordcloud
+vaderSentiment
+spotipy
+auth
+pandas
+seaborn
+ipywidgets
+nltk
